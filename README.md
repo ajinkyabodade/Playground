@@ -61,3 +61,26 @@ Pesto Delta Team is proudly launching its own Online shopping Store. Below are t
 ## UI Design mocks
 
 UI design Mocks will be added shortly for all devices.
+
+
+## Tech stack (Language/Library)
+
+- Frontend
+  - HTML, CSS, JavaScript
+  - Bootstrap
+  - ReactJS
+  - SCSS
+  - DOM Testing Library
+  - Jest and React Testing Library
+  - React Router
+  - Sweet Alert
+  - React Router
+  
+- Backend
+  - Firebase
+  - NodeJs
+
+
+## Out of Scope
+  - Admin Dashboard 
+  - Seller Account
